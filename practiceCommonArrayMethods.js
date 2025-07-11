@@ -38,7 +38,7 @@ orders[0].push("Flat White");
 
 console.log(orders[0].length);
 
-let rowIndex1 = 0;
-let itemIndex1 = 3;
+rowIndex = 0;
+itemIndex = 3;
 
-console.log(orders[rowIndex1][itemIndex1]);
+console.log(orders[rowIndex][itemIndex]);
